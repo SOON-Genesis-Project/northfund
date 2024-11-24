@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-northfund = "8gSTcn9WTN9xEJj2ZAn4EtzTiNYsCRFcQCACNjybm966"
+northfund = "GzTAeUQX8Fdzyw99wEYC6iqY3bWKBPVgGftQeHM7D3YB"
 
 [registry]
 url = "https://api.apr.dev"

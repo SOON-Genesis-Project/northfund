@@ -2,8 +2,7 @@ use std::mem::size_of;
 
 use anchor_lang::prelude::*;
 
-
-declare_id!("8gSTcn9WTN9xEJj2ZAn4EtzTiNYsCRFcQCACNjybm966");
+declare_id!("GzTAeUQX8Fdzyw99wEYC6iqY3bWKBPVgGftQeHM7D3YB");
 
 #[program]
 pub mod northfund {
